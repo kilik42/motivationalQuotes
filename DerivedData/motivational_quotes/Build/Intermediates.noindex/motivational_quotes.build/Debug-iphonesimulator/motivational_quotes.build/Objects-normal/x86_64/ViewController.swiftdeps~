@@ -24,6 +24,7 @@ depends-top-level:
 - "UIImageView"
 - "UILabel"
 - "UIViewController"
+- !private "UnicodeScalarType"
 - "ViewController"
 - !private "arc4random"
 - !private "print"

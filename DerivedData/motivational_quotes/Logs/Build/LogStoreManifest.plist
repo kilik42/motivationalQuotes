@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>D2E0CFA3-10D5-4B65-9B7F-125B9047699E</key>
+		<key>2CC49CD1-3D87-4348-A964-61A1EAC99C1C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,11 +15,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D2E0CFA3-10D5-4B65-9B7F-125B9047699E.xcactivitylog</string>
+			<string>2CC49CD1-3D87-4348-A964-61A1EAC99C1C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>motivational_quotes project</string>
@@ -30,13 +32,47 @@
 			<key>signature</key>
 			<string>Build motivational_quotes</string>
 			<key>timeStartedRecording</key>
-			<real>575401088.71852195</real>
+			<real>610957756.633564</real>
 			<key>timeStoppedRecording</key>
-			<real>575401092.497491</real>
+			<real>610957756.735484</real>
 			<key>title</key>
 			<string>Build motivational_quotes</string>
 			<key>uniqueIdentifier</key>
-			<string>D2E0CFA3-10D5-4B65-9B7F-125B9047699E</string>
+			<string>2CC49CD1-3D87-4348-A964-61A1EAC99C1C</string>
+		</dict>
+		<key>D9A5FDA6-2C73-464E-A542-D404FB2A24AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D9A5FDA6-2C73-464E-A542-D404FB2A24AE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>motivational_quotes project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>motivational_quotes</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build motivational_quotes</string>
+			<key>timeStartedRecording</key>
+			<real>610946816.69031</real>
+			<key>timeStoppedRecording</key>
+			<real>610946816.72669899</real>
+			<key>title</key>
+			<string>Build motivational_quotes</string>
+			<key>uniqueIdentifier</key>
+			<string>D9A5FDA6-2C73-464E-A542-D404FB2A24AE</string>
 		</dict>
 	</dict>
 </dict>

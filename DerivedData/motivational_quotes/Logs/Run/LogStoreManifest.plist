@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>A4C13C4C-CD7F-4179-A857-832E55F5AC90</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A4C13C4C-CD7F-4179-A857-832E55F5AC90.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>motivational_quotes project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>motivational_quotes</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run motivational_quotes</string>
+			<key>timeStartedRecording</key>
+			<real>610957756.74816</real>
+			<key>timeStoppedRecording</key>
+			<real>610957854.30496705</real>
+			<key>title</key>
+			<string>Run motivational_quotes</string>
+			<key>uniqueIdentifier</key>
+			<string>A4C13C4C-CD7F-4179-A857-832E55F5AC90</string>
+		</dict>
+		<key>AB3E1E68-D568-440B-9E76-31634B2763C2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AB3E1E68-D568-440B-9E76-31634B2763C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>motivational_quotes project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>motivational_quotes</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run motivational_quotes</string>
+			<key>timeStartedRecording</key>
+			<real>610946816.72957397</real>
+			<key>timeStoppedRecording</key>
+			<real>610946905.21089196</real>
+			<key>title</key>
+			<string>Run motivational_quotes</string>
+			<key>uniqueIdentifier</key>
+			<string>AB3E1E68-D568-440B-9E76-31634B2763C2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

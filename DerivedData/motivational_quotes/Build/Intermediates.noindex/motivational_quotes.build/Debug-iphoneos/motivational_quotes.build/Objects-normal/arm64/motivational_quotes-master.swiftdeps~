@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "cb93748f2a4beca01a800526c638db06"
+build_time: [1572558091, 721070000]
+inputs:
+  "/Users/marvinevins/Library/Autosave Information/motivational_quotes/motivational_quotes/controller/ViewController.swift": [1553634922, 296368264]
+  "/Users/marvinevins/Library/Autosave Information/motivational_quotes/motivational_quotes/AppDelegate.swift": [1552789406, 888760956]
+  "/Users/marvinevins/Library/Autosave Information/motivational_quotes/motivational_quotes/model/Quotes.swift": [1552799914, 39476888]
